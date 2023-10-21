@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dialogs Demo</string>
+    <string name="simple_content_dialog">Simple Content Dialog</string>
+    <string name="date_picker_dialog">Date Picker Dialog</string>
+    <string name="time_picker_dialog">Time Picker Dialog</string>
+    <string name="custom_dialog">Custom Dialog</string>
+    <string name="yes_or_no_dialog">Yes or No Dialog</string>
+    <string name="title">Title</string>
+    <string name="save">Save</string>
+    <string name="this_is_a_custom_dialog">This is a Custom Dialog</string>
+</resources>
